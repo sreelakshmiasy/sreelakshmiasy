@@ -11,5 +11,10 @@
 ### 3 [Wordle Difficulty Predictor](https://github.com/sreelakshmiasy/wordle-difficulty-predictor)
 🔹 Predicts the difficulty of Wordle words using letter frequency, vowel count and more.
 
+### 4 [Toy Sales Dashboard (Excel)](https://github.com/sreelakshmiasy/Excel-Dashboard-Project)
+🔹 Interactive Excel dashboard with pivot charts, slicers, XLOOKUP, and custom formatting to analyze toy sales by product, city, and date.
+📦 Dataset by [Maven Analytics - https://mavenanalytics.io/data-playground?accessType=open&dataStructure=Multiple%20tables&order=date_added%2Cdesc&tags=Retail&tags=Government]
+
+
 💼 **Check out my full portfolio:** [GitHub Profile](https://github.com/sreelakshmiasy)
 
