@@ -6,8 +6,7 @@
 🔹 SQL project analyzing e-commerce sales, inventory, and pricing trends.
 
 ### 2 [Stock Crypto Correlation Analysis & Prediction](https://github.com/sreelakshmiasy/Stock_crypto_prediction)
-🔹 Machine learning model predicting customer churn using Python.
-
+🔹 Finding the correlation between stock and crypto movements and forecasting prices.
 ### 3 [Wordle Difficulty Predictor](https://github.com/sreelakshmiasy/wordle-difficulty-predictor)
 🔹 Predicts the difficulty of Wordle words using letter frequency, vowel count and more.
 
